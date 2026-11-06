@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "status": "pending-analysis",
+  "libg": {
+    "architecture": "arm64",
+    "sha256": null,
+    "size": null
+  },
+  "mappings": {}
+}
